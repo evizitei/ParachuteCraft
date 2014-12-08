@@ -6,7 +6,7 @@ import net.minecraft.item.ItemStack;
 
 public class ParachuteRecipe {
   public static ItemStack output(){
-	  return new ItemStack(Items.bed);
+	  return new ItemStack(ParachuteMod.parachute);
   }
   
   public static Object[] shape(){
