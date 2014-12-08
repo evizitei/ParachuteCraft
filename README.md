@@ -6,9 +6,11 @@ automatically on a fall.
 
 A parachute can be constructed with 3 wool & 3 string:
 
+```
 W W W
 S _ S
 _ S _
+```
 
 Product Management credit to my daughter, Isabella :)
 
